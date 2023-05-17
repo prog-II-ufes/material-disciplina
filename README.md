@@ -2,4 +2,4 @@
 
 Esse repositório possui alguns recursos disponíveis para o aprendizado ao longo da disciplina. Na sequência é apresentado um link e resumo para cada uma das pastas:
 
-- aaa
+- [campeonato](campeonato): resolução do exercício de gerenciamento de um campeonato de futebol disponibilizado na aula 11
